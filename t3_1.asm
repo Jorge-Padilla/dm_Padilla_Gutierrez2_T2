@@ -53,6 +53,6 @@ __Potencia:
 	# }
 # }
 
-__end:
 # nop
+__end:
 addi	zero, zero, 0x0
